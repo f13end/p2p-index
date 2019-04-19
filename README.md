@@ -94,9 +94,6 @@ Distributed social network, Diaspora consists of a group of independently owned 
 * [**ethereum**](https://www.ethereum.org/)
 Blockchain-based virtual machine and Web 3.0 platform.
 
-* [**Holochain**](https://www.holochain.org/)
-Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build
-
 * [**Blockstack**](https://blockstack.org)
 Decentralized application platform with DNS, identity, authentication, storage and a web browser
 
@@ -203,3 +200,6 @@ A decentralised, end-to-end encrypted Internet.
 
 * [**Synereo**](http://www.synereo.com/)
 Fully decentralized and distributed social platform.
+
+* [**Holochain**](https://www.holochain.org/)
+Scalable P2P alternative to blockchain for all those distributed apps you always wanted to build
